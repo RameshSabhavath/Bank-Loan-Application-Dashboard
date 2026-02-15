@@ -9,6 +9,12 @@
 
 ### 🛠 Tools & Methods used
 → Power BI, DAX, Power Query, Exploratory Data Analysis (EDA), Financial Modeling.
+#  Dashboard
+
+<p align="center">
+  <img src="Bank-Loan-Data-Analysis.png" width="1000" height="500"/>
+</p>
+
 ###  🗳 Financial Strength & Performance
 → 14K Model: $169.0M funded, $183.4M received → +$14.43M net surplus          
 → 38K Model: $435.8M funded, $473.1M received → +$37.3M net surplus  
@@ -18,11 +24,11 @@
 → Capital recovery exceeds disbursement in both portfolios   
 → Enabled real-time KPI tracking via Power BI dashboards and DAX measures (MTD, MoM, YTD).
 
-📉 Risk Segmentation & Exposure Analysis
+### 📉 Risk Segmentation & Exposure Analysis
 Findings:      
 ➡ Implemented Good vs Bad Loan categorization engine:   
-→  **Good Loan ratio :** 84.1% (14K) **┃ ** 86.1% (38K)   
-→ **Bad Loan ratio :** 15.9% (14K) **┃ ** 13.9% (38K)
+→  **Good Loan ratio :** 84.1% (14K) ┃ 86.1% (38K)   
+→ **Bad Loan ratio :** 15.9% (14K) ┃  13.9% (38K)
 * Quantified $65.5M exposure in charged-off loans
 * $37.3M recovered from high-risk segment
 * Average yield (~12%) provides financial buffer against defaults
