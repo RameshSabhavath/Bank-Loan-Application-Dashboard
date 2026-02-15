@@ -12,7 +12,7 @@
 ###  Dashboard
 
 <p align="center">
-  <img src="Bank%20Loan%20Application%20Dashboard.png" width="1000" height="500"/>
+  <img src="Bank%20Loan%20Application%20Dashboard.png" width="1500" height="700"/>
 </p>
 
 ###  🗳 Financial Strength & Performance
